@@ -35,13 +35,13 @@ const About = () => {
       </p>
 
       <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '10px', marginTop: '20px' }}>
-        <a href="https://theshivanshvasu.com" target="_blank" rel="noreferrer" style={socialBtnStyle}>🌐 Website</a>
-        <a href="https://youtube.com/@shivanshvasu" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(239, 68, 68, 0.2)', borderColor: '#ef4444', color: '#ef4444' }}>📺 YouTube</a>
-        <a href="https://instagram.com/theshivanshvasuofficial" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(236, 72, 153, 0.2)', borderColor: '#ec4899', color: '#ec4899' }}>📸 Instagram</a>
-        <a href="https://www.linkedin.com/in/theshivanshvasu" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(59, 130, 246, 0.2)', borderColor: '#3b82f6', color: '#3b82f6' }}>💼 LinkedIn</a>
-        <a href="https://x.com/theshivanshvasu" target="_blank" rel="noreferrer" style={socialBtnStyle}>✖️ X (Twitter)</a>
-        <a href="https://whatsapp.com/channel/0029VbAWGE5ICVfcjjKTAS0B" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(16, 185, 129, 0.2)', borderColor: '#10b981', color: '#10b981' }}>💬 WhatsApp</a>
-        <a href="https://linktr.ee/shivanshvasu" target="_blank" rel="noreferrer" style={socialBtnStyle}>🔗 Linktree</a>
+        <a href="https://www.youtube.com/@shikharraiyat26" target="_blank" rel="noreferrer" style={socialBtnStyle}>🌐 Website</a>
+        <a href="https://www.youtube.com/@shikharraiyat26" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(239, 68, 68, 0.2)', borderColor: '#ef4444', color: '#ef4444' }}>📺 YouTube</a>
+        {/* <a href="https://instagram.com/theshivanshvasuofficial" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(236, 72, 153, 0.2)', borderColor: '#ec4899', color: '#ec4899' }}>📸 Instagram</a> */}
+        <a href="https://www.linkedin.com/in/shikhar-raiyat/" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(59, 130, 246, 0.2)', borderColor: '#3b82f6', color: '#3b82f6' }}>💼 LinkedIn</a>
+        {/* <a href="https://x.com/theshivanshvasu" target="_blank" rel="noreferrer" style={socialBtnStyle}>✖️ X (Twitter)</a> */}
+        {/* <a href="https://whatsapp.com/channel/0029VbAWGE5ICVfcjjKTAS0B" target="_blank" rel="noreferrer" style={{ ...socialBtnStyle, background: 'rgba(16, 185, 129, 0.2)', borderColor: '#10b981', color: '#10b981' }}>💬 WhatsApp</a> */}
+        {/* <a href="https://linktr.ee/shivanshvasu" target="_blank" rel="noreferrer" style={socialBtnStyle}>🔗 Linktree</a> */}
       </div>
     </div>
   );
